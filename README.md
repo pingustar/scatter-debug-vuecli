@@ -1,24 +1,9 @@
-# scatter-debug-vuecli
+# Scatter Debug Vite
 
-## Project setup
-```
-yarn install
-```
+deployed at [https://scatter-debug-vuecli.vercel.app/](https://scatter-debug-vuecli.vercel.app/)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Development
 
-### Compiles and minifies for production
-```
-yarn build
-```
+`yarn`
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`yarn dev`
